@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Rspec::Refinements::VERSION
   gem.authors       = ["Akira Matsuda"]
   gem.email         = ["ronnie@dio.jp"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = 'keep your BasicObject clean using refinements'
+  gem.summary       = 'RSpec + Ruby 2.0 refinements'
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
