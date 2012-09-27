@@ -1,6 +1,6 @@
-# Rspec::Refinements
+# RSpec::Refinements
 
-TODO: Write a gem description
+RSpec + Ruby 2.0 refinements
 
 ## Installation
 
@@ -15,10 +15,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install rspec-refinements
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
