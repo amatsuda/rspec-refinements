@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["ronnie@dio.jp"]
   gem.description   = 'keep your BasicObject clean using refinements'
   gem.summary       = 'RSpec + Ruby 2.0 refinements'
-  gem.homepage      = ""
+  gem.homepage      = 'https://github.com/amatsuda/rspec-refinements'
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
